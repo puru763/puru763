@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puru763
+- 👋 Hi, I’m @puru763.
 🤓 Self taught Developer
 👩‍💻 Working on Web & App Development
 📝 Writing Words, Compiling Code
