@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @puru763
-- 
 🤓 Self taught Developer
-
 👩‍💻 Working on Web & App Development
-
 📝 Writing Words, Compiling Code
-
 🎯 Goal : To be a better Developer
-
 📫 How to reach me : purvesh152001@gmail.com.
 
 <!---
