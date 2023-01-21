@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @puru763
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🤓 Self taught Developer
+👩‍💻 Working on Web & App Development
+📝 Writing Words, Compiling Code
+🎯 Goal : To be a better Developer
+📫 How to reach me : purvesh152001@gmail.com.
 
 <!---
 puru763/puru763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
