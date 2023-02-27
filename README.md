@@ -1,11 +1,8 @@
-Nice to meet you, I'm Purvesh Krishnani
-
-Who Am I? 🤠
 🤓 Self taught Developer
-👩‍💻 Working on Web & App Development
+👩‍💻 Working on Web Development
 📝 Writing Words, Compiling Code
 🎯 Goal : To be a better Developer
-📫 How to reach me :purvesh152001@gmil.com
+📫 How to reach me : purvesh152001@gmil.com
 💌 Fun Facts :
 Loves food but can't' cook 🐼
 Overthinks thinking to not to overthink 🙂
