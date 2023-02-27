@@ -1,13 +1,14 @@
-Nice to meet you, I'm Purvesh Krishnani
-Who Am I? 🤠.
-🤓 Self taught Developer.
-👩‍💻 Working on Web Development.
-📝 Writing Words, Compiling Code.
-🎯 Goal : To be a better Developer.
-📫 How to reach me : purvesh152001@gmail.com.
+Nice to meet you, I'm Sujata Gunale aka TidbitsJS
+
+Who Am I? 🤠
+🤓 Self taught Developer
+👩‍💻 Working on Web & App Development
+📝 Writing Words, Compiling Code
+🎯 Goal : To be a better Developer
+📫 How to reach me : sujata@jsmastery.pro
 💌 Fun Facts :
-Loves food but can't' cook 🐼.
-Overthinks thinking to not to overthink 🙂.
+Loves food but can't' cook 🐼
+Overthinks thinking to not to overthink 🙂
 
 
 <!---
