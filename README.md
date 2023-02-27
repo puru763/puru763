@@ -1,6 +1,4 @@
-
 Nice to meet you, I'm Purvesh Krishnani
-
 Who Am I? 🤠
 🤓 Self taught Developer
 👩‍💻 Working on Web Development
